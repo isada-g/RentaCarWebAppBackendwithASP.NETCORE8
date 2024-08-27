@@ -32,3 +32,27 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/rentacar.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd rentacar
+3. Install the required dependencies:
+   ```bash
+   dotnet restore
+4. Update the appsettings.json file with your database connection string.
+5. Apply migrations and seed the database:
+   ```bash
+   dotnet ef database update
+6. Run the application:
+   ```bash
+   dotnet run
+
+## Usage
+Once the application is running, you can access it via your browser at http://localhost:5000.
+
+To access the admin panel, go to http://localhost:5000/admin.
+
+## API Documentation
+The API documentation is available via Swagger. Once the application is running, navigate to:
+```bash
+http://localhost:5000/swagger/index.html
