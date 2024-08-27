@@ -54,5 +54,15 @@ To access the admin panel, go to http://localhost:5000/admin.
 ## API Documentation
 The API documentation is available via Swagger. Once the application is running, navigate to:
 ```bash
-http://localhost:5000/swagger/index.html```
-asdasdasdasd
+http://localhost:5000/swagger/index.html
+```
+This will provide detailed information about the available API endpoints, request parameters, and responses.
+
+## Technologies Used
+
+- **Backend**: .NET Core 8, Entity Framework Core
+- **Database**: SQL Server
+- **Frontend**: Razor Pages (or Angular, React, etc. if used)
+- **Authentication**: ASP.NET Core Identity
+- **API Documentation**: Swagger
+- **Version Control**: Git
