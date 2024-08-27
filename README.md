@@ -1,6 +1,5 @@
 # RentACar Web Application
 
-![RentACar Logo](link-to-logo.png) <!-- Eğer bir logon varsa buraya link ekleyebilirsin -->
 
 ## Overview
 
@@ -55,4 +54,5 @@ To access the admin panel, go to http://localhost:5000/admin.
 ## API Documentation
 The API documentation is available via Swagger. Once the application is running, navigate to:
 ```bash
-http://localhost:5000/swagger/index.html
+http://localhost:5000/swagger/index.html```
+asdasdasdasd
