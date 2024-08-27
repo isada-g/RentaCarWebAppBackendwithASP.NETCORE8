@@ -66,3 +66,23 @@ This will provide detailed information about the available API endpoints, reques
 - **Authentication**: ASP.NET Core Identity
 - **API Documentation**: Swagger
 - **Version Control**: Git
+
+## Contributing
+Contributions are welcome! To contribute to this project, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature-branch
+   ```
+3. Make your changes.
+4. Commit your changes:
+   ```bash
+   git commit -m 'Add new feature'
+   ```
+5.Push to the branch:
+   ```bash
+   git push origin feature-branch
+   ```
+6. Open a Pull Request.
+   
